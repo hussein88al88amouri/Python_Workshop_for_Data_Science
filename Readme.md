@@ -1,6 +1,6 @@
 
 <p style="font-size:90%; font-weight:bold;">
-This bootcamp is prepared by <i>Hussein El Amouri</i>, Assistant Professor and Researcher in machine learning at the University of Sciences and Arts in Lebanon – <i><b>USAL</b></i>.
+This course is prepared by <i>Hussein El Amouri</i>, Assistant Professor and Researcher in machine learning at the University of Sciences and Arts in Lebanon – <i><b>USAL</b></i>.
 </p>
 
 **Workshop Sections:**
