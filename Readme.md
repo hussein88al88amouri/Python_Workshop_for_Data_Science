@@ -1,7 +1,6 @@
 
-# Python Workshop Outline for AI Preparation
 <p style="font-size:90%; font-weight:bold;">
-This workshop is prepared by <i>Hussein El Amouri</i>, Assistant Professor and AI Researcher at University of Sciences and Arts in Lebanon – <i><b>USAL</b></i>. He also collaborates in research with LAU University in Lebanon and AgroParisTech in France.
+This course is prepared by <i>Hussein El Amouri</i>, Assistant Professor and Researcher in machine learning at the University of Sciences and Arts in Lebanon – <i><b>USAL</b></i>.
 </p>
 
 **Workshop Sections:**
