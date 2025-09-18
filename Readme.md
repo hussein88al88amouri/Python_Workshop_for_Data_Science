@@ -6,7 +6,7 @@ This course is prepared by <i>Hussein El Amouri</i>, Assistant Professor and Res
 **Workshop Sections:**
 - Python installation and basics
 - Advanced Python fundamentals and libraries (NumPy, Pandas, Matplotlib)
-- Hands-on AI examples (Scikit-Learn, KNN)
+- Hands-on AI examples (Scikit-Learn, Linear Regression, KNN)
 - Extra advanced Python topics
 
 ***
