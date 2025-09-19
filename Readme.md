@@ -44,7 +44,7 @@ This course is prepared by <i>Hussein El Amouri</i>, Assistant Professor and Res
 
 ***
 
-## [2. Advanced Fundamentals and Libraries](2.%20Advanced%20Fundamentals%20and%20Libraries)
+## [2. Numerical Analysis and Visualization Libraries](2.%20Advanced%20Fundamentals%20and%20Libraries)
 ### [01. Downloading Packages](2.%20Advanced%20Fundamentals%20and%20Libraries/01_Downloading_Packages.ipynb)
 - Intorduction to package installation, managing and importing
 
@@ -66,20 +66,25 @@ This course is prepared by <i>Hussein El Amouri</i>, Assistant Professor and Res
 ### [01. Scikit-Learn: Intro to AI](3.%20Hands-On%20AI%20Examples/01_Scikit_Learn_Intro_to_AI.ipynb)
 - Introduction to the Scikit-Learn package
 - Using a simple machine learning model to predict Iris classes
-- Using linear regression for prediction
+- Using support vector machine to predict classes
 - Applying concepts learned in previous sections
 
 ### [02. Predicting Iris using KNN](3.%20Hands-On%20AI%20Examples/02_Predicting_Iris_using_KNN.ipynb)
 - Introduction to the K-Nearest Neighbors (KNN) algorithm in Scikit-Learn
 - Predicting Iris classes using KNN
-- Comparing KNN with linear regression
-- Hands-on implementation and evaluation
+s- Hands-on implementation and evaluation
+
+### [03. Predicting Iris using Logistic Regression](3.%20Hands-On%20AI%20Examples/03_Predicting_Iris_using_Logistic_Regression.ipynb)
+- Introduction to Logistic regression algorithm
+- Training Logistic regression
 
 ### [03. Final Example](3.%20Hands-On%20AI%20Examples/03_Final_Example.ipynb)
 
+***
+
 ## [4. Extra](4.%20Extra)
 - Extra reads and hands-on for Advanced Python
-***
+
 ***
 
 <p style="font-size:80%;">
